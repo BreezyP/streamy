@@ -2,12 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3fbfbb27-0449-4c27-8228-c4d5c5223b70" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/client/src/components/GoogleAuth.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clientID" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/db.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/node_modules/json-server/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/node_modules/json-server/lib/cli/bin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/node_modules/json-server/lib/cli/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/node_modules/json-server/lib/cli/run.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/node_modules/json-server/lib/cli/utils/is.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/node_modules/json-server/lib/cli/utils/load.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/node_modules/json-server/lib/front/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/node_modules/json-server/lib/server/body-parser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/node_modules/json-server/lib/server/defaults.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/node_modules/json-server/lib/server/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/node_modules/json-server/lib/server/mixins.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/node_modules/json-server/lib/server/rewriter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/node_modules/json-server/lib/server/router/delay.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/node_modules/json-server/lib/server/router/get-full-url.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/node_modules/json-server/lib/server/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/node_modules/json-server/lib/server/router/nested.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/node_modules/json-server/lib/server/router/plural.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/node_modules/json-server/lib/server/router/singular.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/node_modules/json-server/lib/server/router/validate-data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/node_modules/json-server/lib/server/router/write.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/node_modules/json-server/lib/server/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/node_modules/json-server/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/node_modules/json-server/postinstall.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/node_modules/json-server/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client" beforeDir="false" afterPath="$PROJECT_DIR$/client" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/actions/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/actions/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/actions/types.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/actions/types.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/streams/StreamCreate.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/streams/StreamCreate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/reducers/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/reducers/index.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +87,11 @@
       <workItem from="1574230806898" duration="4237000" />
       <workItem from="1574374253708" duration="664000" />
       <workItem from="1574440137924" duration="1443000" />
-      <workItem from="1574474691902" duration="613000" />
+      <workItem from="1574474691902" duration="5452000" />
+      <workItem from="1574486330086" duration="1194000" />
+      <workItem from="1574544747726" duration="12225000" />
+      <workItem from="1574571893884" duration="9001000" />
+      <workItem from="1574623757064" duration="4920000" />
     </task>
     <servers />
   </component>
